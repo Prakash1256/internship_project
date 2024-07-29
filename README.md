@@ -45,6 +45,10 @@ Navigate to your project directory:
 cd my-app
 ```
 
+```bash
+npm start
+```
+
 ## Technology Stack
 List and provide a brief overview of the technologies used in the project.
 
