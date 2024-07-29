@@ -5,7 +5,8 @@ import { Link } from 'react-router-dom';
 function NavBar() {
   return (
     <Navbar  expand="lg" bg='info'>
-      <Navbar.Brand as={Link} to="/">MadRocket</Navbar.Brand>
+      <Navbar.Brand as={Link} to="/">Springdale Public School
+</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">

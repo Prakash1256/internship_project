@@ -13,8 +13,11 @@ function HomePage() {
             alt="First slide"
           />
           <Carousel.Caption>
-            <h3>Welcome to Our School</h3>
-            <p>Discover our amazing community and facilities.</p>
+            <h3>Welcome to Springdale Public School, where we nurture young minds for a brighter future</h3>
+            <p>"Annual Sports Day - Celebrating Excellence in Sports"
+"Science Exhibition - Showcasing Student Innovations"
+"Cultural Fest - Embracing Diversity and Creativity"
+</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -24,8 +27,11 @@ function HomePage() {
             alt="Second slide"
           />
           <Carousel.Caption>
-            <h3>Welcome to Our School</h3>
-            <p>Discover our amazing community and facilities.</p>
+            <h3>Welcome to Springdale Public School, where we nurture young minds for a brighter future</h3>
+            <p>"Annual Sports Day - Celebrating Excellence in Sports"
+"Science Exhibition - Showcasing Student Innovations"
+"Cultural Fest - Embracing Diversity and Creativity"
+</p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -35,12 +41,16 @@ function HomePage() {
             alt="Third slide"
           />
           <Carousel.Caption>
-            <h3>Welcome to Our School</h3>
-            <p>Discover our amazing community and facilities.</p>
+            <h3>Welcome to Springdale Public School, where we nurture young minds for a brighter future</h3>
+            <p>"Annual Sports Day - Celebrating Excellence in Sports"
+"Science Exhibition - Showcasing Student Innovations"
+"Cultural Fest - Embracing Diversity and Creativity"
+</p>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
-     </Container>
+     
+</Container>
   );
 }
 
