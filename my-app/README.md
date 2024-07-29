@@ -25,3 +25,33 @@ This project is a fully functional and responsive website for a school. The webs
 
 ![image](https://github.com/user-attachments/assets/6e826134-d7cf-44d9-9928-4954895db801)
 
+![image](https://github.com/user-attachments/assets/c36a50d1-077e-4b9a-82e1-14f32a1c9e15)
+
+
+## Installation & Getting Started
+
+# Create React App (CRA)
+ First, ensure you have Node.js installed on your system. You can download and install it from Node.js website.
+Open your terminal.<br>
+To create a new React app using CRA, run the following command:
+
+```bash
+npx create-react-app my-app
+```
+Replace my-app with your preferred project name.<br>
+Navigate to your project directory:
+
+```bash
+cd my-app
+```
+
+## Technology Stack
+List and provide a brief overview of the technologies used in the project.
+
+
+- React
+- react-bootstrap
+- Html
+- Css
+- Other libraries/modules etc...
+
